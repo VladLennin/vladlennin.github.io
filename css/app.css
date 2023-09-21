@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+.header{
+    background: #171717;
+    display: flex;
+    padding: 10px;
+}
