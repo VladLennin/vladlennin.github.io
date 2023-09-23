@@ -3,4 +3,6 @@
     border: #3b3b3b 2px solid;
     border-radius: 5px;
     background: #232323;
+    display: flex;
+    justify-content: space-between;
 }

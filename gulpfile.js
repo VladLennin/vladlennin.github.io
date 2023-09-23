@@ -10,7 +10,7 @@ function styles() {
         .src('src/**/*.css')
         .pipe(concat('styles.css'))
         .pipe(gulpIf(!firstRun, cleanCSS())) // Minify and optimize only after the first run
-        .pipe(gulp.dest(''))
+        .pipe(gulp.dest('.'))
         .on('end', () => {
             firstRun = false;
         });

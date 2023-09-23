@@ -1,3 +1,7 @@
 .contact-element {
+    margin-top: 1vh;
     color: #fff;
+    display: flex;
+    align-items: center;
+    gap:1vw;
 }

@@ -8,6 +8,10 @@
     text-decoration: none;
 }
 
+html { scroll-behavior: smooth; }
+
+
+
 
 body {
     padding: 5vh 12vw;
