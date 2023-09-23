@@ -1,0 +1,9 @@
+.greeting__content{
+    text-align: start;
+    color:#fff;
+    font-size: 64px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}

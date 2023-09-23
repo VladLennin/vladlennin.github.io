@@ -1,0 +1,14 @@
+.project-content__title{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.project-content__title:hover{
+    color: #8C61C0;
+    transition-duration: 200ms;
+    cursor: pointer;
+}

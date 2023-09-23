@@ -1,0 +1,7 @@
+.project-card {
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    background: #232323;
+    border-radius: 5px;
+    border:#3b3b3b 2px solid;
+}
