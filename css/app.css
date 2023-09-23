@@ -1,12 +1,21 @@
+@import url("./header/header.css");
+@import url("./main/main.css");
+@import url("./header/__name/__name.css");
+@import url("./header/_navigation/_navigation.css");
+@import url("./header/_navigation/_link/_link.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    text-decoration: none;
 }
 
-.header {
-    color: white;
-    background: #171717;
-    display: flex;
-    padding: 10px;
+
+body {
+    background: #1e1e1e;
 }
+
